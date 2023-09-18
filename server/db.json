@@ -1,0 +1,247 @@
+{
+    "users":[],
+    "categories": [
+        {
+            "category_id": 1,
+            "category_name": "Thời trang nam"
+        },
+        {
+            "category_id": 2,
+            "category_name": "Thời trang nữ"
+        },
+        {
+            "category_id": 3,
+            "category_name": "Kính"
+        },
+        {
+            "category_id": 4,
+            "category_name": "Mũ"
+        },
+        {
+            "category_id": 5,
+            "category_name": "Trang sức"
+        }
+    ],
+    "products": [
+  {
+    "id": 1,
+    "product_name": "Đồng hồ treo tường",
+    "price": 1200000,
+    "description": "Đồng hồ đẹp với thiết kế nhỏ gọn",
+    "from": "Chợ Đồng Xuân",
+    "category_id": 5,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 0,
+    "quantity": 100
+  },
+  {
+    "id": 2,
+    "product_name": "Máy tính xách tay",
+    "price": 15000000,
+    "description": "Máy tính mỏng nhẹ với hiệu suất cao",
+    "from": "Trung tâm điện máy Pico",
+    "category_id": 5,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 5,
+    "quantity": 50
+  },
+  {
+    "id": 3,
+    "product_name": "Áo khoác dù",
+    "price": 850000,
+    "description": "Áo khoác chống nước cho mùa đông",
+    "from": "Cửa hàng thời trang XYZ",
+    "category_id": 3,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 10,
+    "quantity": 75
+  },
+  {
+    "id": 4,
+    "product_name": "Giày thể thao",
+    "price": 750000,
+    "description": "Giày thể thao phong cách",
+    "from": "Siêu thị giày ABC",
+    "category_id": 1,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 0,
+    "quantity": 120
+  },
+  {
+    "id": 5,
+    "product_name": "Bàn làm việc",
+    "price": 2200000,
+    "description": "Bàn làm việc tiện lợi cho văn phòng",
+    "from": "Cửa hàng nội thất EFG",
+    "category_id": 2,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 15,
+    "quantity": 30
+  },
+  {
+    "id": 6,
+    "product_name": "Quần jeans nam",
+    "price": 650000,
+    "description": "Quần jeans nam phong cách",
+    "from": "Cửa hàng thời trang XYZ",
+    "category_id": 3,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 0,
+    "quantity": 90
+  },
+  {
+    "id": 7,
+    "product_name": "Điều hòa không khí",
+    "price": 3500000,
+    "description": "Điều hòa mạnh mẽ cho mùa hè",
+    "from": "Trung tâm điện máy Pico",
+    "category_id": 1,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 8,
+    "quantity": 60
+  },
+  {
+    "id": 8,
+    "product_name": "Bếp điện từ",
+    "price": 2800000,
+    "description": "Bếp điện từ tiện lợi cho bếp nhà bạn",
+    "from": "Cửa hàng thiết bị nhà bếp MNO",
+    "category_id": 2,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 0,
+    "quantity": 40
+  },
+  {
+    "id": 9,
+    "product_name": "Ổ cắm điện thông minh",
+    "price": 200000,
+    "description": "Ổ cắm điện có thể điều khiển từ xa",
+    "from": "Siêu thị điện tử XYZ",
+    "category_id": 1,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 12,
+    "quantity": 80
+  },
+  {
+    "id": 10,
+    "product_name": "Túi xách nữ",
+"price": 500000,
+    "description": "Túi xách nữ thời trang",
+    "from": "Cửa hàng thời trang ABC",
+    "category_id": 2,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 0,
+    "quantity": 110
+  },
+  {
+    "id": 11,
+    "product_name": "Loa không dây",
+    "price": 900000,
+    "description": "Loa không dây với âm thanh chất lượng cao",
+    "from": "Siêu thị điện tử XYZ",
+    "category_id": 7,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 2,
+    "quantity": 65
+  },
+  {
+    "id": 12,
+    "product_name": "Máy ảnh kỹ thuật số",
+    "price": 1800000,
+    "description": "Máy ảnh kỹ thuật số cho nhiếp ảnh gia",
+    "from": "Cửa hàng điện tử EFG",
+    "category_id": 4,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 0,
+    "quantity": 25
+  },
+  {
+    "id": 13,
+    "product_name": "Thảm trải sàn",
+    "price": 300000,
+    "description": "Thảm trải sàn cho phòng khách",
+    "from": "Cửa hàng nội thất XYZ",
+    "category_id": 4,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 20,
+    "quantity": 70
+  },
+  {
+    "id": 14,
+    "product_name": "Bình đun nước",
+    "price": 150000,
+    "description": "Bình đun nước nhanh chóng",
+    "from": "Trung tâm điện máy PQR",
+    "category_id": 6,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 3,
+    "quantity": 95
+  },
+  {
+    "id": 15,
+    "product_name": "Vòng cổ vàng",
+    "price": 7500000,
+    "description": "Vòng cổ vàng sang trọng",
+    "from": "Cửa hàng trang sức XYZ",
+    "category_id": 4,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 15,
+    "quantity": 45
+  },
+  {
+    "id": 16,
+    "product_name": "Áo sơ mi nam",
+    "price": 450000,
+    "description": "Áo sơ mi nam công sở",
+    "from": "Cửa hàng thời trang ABC",
+    "category_id": 1,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 0,
+    "quantity": 70
+  },
+  {
+    "id": 17,
+    "product_name": "Máy sấy tóc",
+    "price": 250000,
+    "description": "Máy sấy tóc tiện lợi",
+    "from": "Cửa hàng điện tử XYZ",
+    "category_id": 2,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 10,
+    "quantity": 55
+  },
+  {
+    "id": 18,
+    "product_name": "Laptop Gaming",
+    "price": 22000000,
+    "description": "Laptop chơi game mạnh mẽ",
+    "from": "Trung tâm điện máy Pico",
+    "category_id": 1,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 5,
+    "quantity": 40
+  },
+  {
+    "id": 19,
+    "product_name": "Đèn trang trí",
+    "price": 180000,
+    "description": "Đèn trang trí cho phòng khách",
+    "from": "Cửa hàng nội thất XYZ",
+    "category_id": 2,
+"image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 0,
+    "quantity": 85
+  },
+  {
+    "id": 20,
+    "product_name": "Ổ phích cắm điện",
+    "price": 50000,
+    "description": "Ổ phích cắm điện tiện lợi",
+    "from": "Siêu thị điện tử ABC",
+    "category_id": 2,
+    "image": "https://img.muji.net/img/item/4550344275726_1260.jpg",
+    "discount": 0,
+    "quantity": 120
+  }
+]
+}
